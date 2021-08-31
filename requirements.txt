@@ -32,11 +32,6 @@ jupyter-server==1.10.2
 jupyterlab==3.1.4
 jupyterlab-pygments==0.1.2
 jupyterlab-server==2.6.2
-Kivy==2.0.0
-kivy-deps.angle==0.3.0
-kivy-deps.glew==0.3.0
-kivy-deps.sdl2==0.3.1
-Kivy-Garden==0.1.4
 MarkupSafe==2.0.1
 matplotlib-inline==0.1.2
 mistune==0.8.4
